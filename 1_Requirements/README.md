@@ -14,3 +14,5 @@ It is free of cost. Since the system uses open source software.
 ## Features
 It shows the result analysis of number of files processed using proposed system. In this, time to securing data in milli seconds and time required to regenerate original 
 data in seconds are given in detail manner.
+# Defining the System
+The proposed system includes, which proficiently coordinates integrity and privacy safeguarding in data centers that are accessible through large servers.
