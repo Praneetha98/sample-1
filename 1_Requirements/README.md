@@ -8,3 +8,5 @@ Online company for various fields now has high margins due to its more transpare
   - A structured validation tool to properly characterizes, explain, and measure the obligation of framework conventions, much like it does in real-world datasets. Some of the
 difficulties make it unimportant to configuration account trade. The distinction between legal and illegal transactions is difficult to describe straight away. 
   - This is primarily due to the fact that fraudulent vendors may introduce additional irritation into others' datasets before achieving to exchanged them, and determining how much information should be irritated in order to be free of the first one isn't even in the software engineering space. This will allow efficient security models, for example k-secrecy and assorted variety, to be used while reducing the loss of data caused by the existing procedure. The primary class is based on a rugged nearest neighbor relationship. 
+# Cost and Features
+It is free of cost. Since the system uses open source software.
