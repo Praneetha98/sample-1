@@ -16,7 +16,7 @@ It shows the result analysis of number of files processed using proposed system.
 data in seconds are given in detail manner.
 # Defining the System
 The proposed system includes, which proficiently coordinates integrity and privacy safeguarding in data centers that are accessible through large servers.
-# SWOT Analysis:
+# SWOT Analysis
 ![swot analysis](https://user-images.githubusercontent.com/88475031/128624549-fbc2b1b3-5b6d-4b18-b275-22f89d049150.jpg)
 # 4W's and 1'H
 ## Who:
