@@ -27,3 +27,4 @@ There is a critical safety concern in a data market platforms, that's tricky to 
 ## Where:
 Can be used in the data markets and many online information platforms. 
 ## How:
+The user should register with raw data and the raw data will be encrypted. After data is encrypted it is verified based on two batches. First batch will be used for verification and second batch will collect the encrypted data.
