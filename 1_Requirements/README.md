@@ -49,3 +49,18 @@ The user should register with raw data and the raw data will be encrypted. After
 | LR_07 | View unblock requests | HR_01 | Implemented |
 | LR_08 | View product rank | HR_01 | Implemented |
 | LR_09 | Logout | HR_01 | Implemented |
+| LR_10 | Register | HR_02 | Implemented |
+| LR_11 | Login | HR_02 | Implemented |
+| LR_12 | View profile | HR_02 | Implemented |
+| LR_13 | Add products | HR_02 | Implemented |
+| LR_14 | View all products | HR_02 | Implemented |
+| LR_15 | View all users | HR_02 | Implemented |
+| LR_16 | View all malicious users | HR_02 | Implemented |
+| LR_17 | Logout | HR_02 | Implemented |
+| LR_18 | Register | HR_03 | Implemented |
+| LR_19 | Login | HR_03 | Implemented |
+| LR_20 | Search | HR_03 | Implemented |
+| LR_21 | View requests | HR_03 | Implemented |
+| LR_22 | Search products | HR_03 | Implemented |
+| LR_23 | View products | HR_03 | Implemented |
+| LR_24 | Logout | HR_03 | Implemented |
