@@ -34,4 +34,6 @@ The user should register with raw data and the raw data will be encrypted. After
 ## High Level Requirements:
 | ID | Description | Status |
 | --- | --- | --- |
-
+| HR_01 | Admin | Implemented |
+| HR_02 | Seller | Implemented |
+| HR_03 | End user | Implemented |
