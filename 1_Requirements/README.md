@@ -19,7 +19,8 @@ The proposed system includes, which proficiently coordinates integrity and priva
 # 4 W's and 1'H
 ## Who:
 This is a helping hand for data markets for checking the integrity of data.
-## What: 
+## What:
+An integrity and privacy checker for identifying the information changes. 
 ## When:
 ## Where:
 ## How:
