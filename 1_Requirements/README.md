@@ -16,6 +16,8 @@ It shows the result analysis of number of files processed using proposed system.
 data in seconds are given in detail manner.
 # Defining the System
 The proposed system includes, which proficiently coordinates integrity and privacy safeguarding in data centers that are accessible through large servers.
+# SWOT Analysis:
+![swot analysis](https://user-images.githubusercontent.com/88475031/128624549-fbc2b1b3-5b6d-4b18-b275-22f89d049150.jpg)
 # 4 W's and 1'H
 ## Who:
 This is a helping hand for data markets for checking the integrity of data.
@@ -28,3 +30,5 @@ There is a critical safety concern in a data market platforms, that's tricky to 
 Can be used in the data markets and many online information platforms. 
 ## How:
 The user should register with raw data and the raw data will be encrypted. After data is encrypted it is verified based on two batches. First batch will be used for verification and second batch will collect the encrypted data.
+# Detail requirements
+## High Level Requirements:
