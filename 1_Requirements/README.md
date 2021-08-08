@@ -25,4 +25,5 @@ check the validity of data contributor’s identity as well as the stuff of raw 
 ## When:
 There is a critical safety concern in a data market platforms, that's tricky to be certain the accuracy of data collection and processing, particularly when the data contributors’ privacy must be protected.
 ## Where:
+Can be used in the data markets and many online information platforms. 
 ## How:
