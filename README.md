@@ -10,3 +10,5 @@ Online company for various fields now has high margins due to its more transpare
 | 2_Design | Documents specifying design details |
 | 3_Implementation | All code and documentation |
 | 4_Test_plan | Documents with test plans and procedures |
+# Credits
+1. Reference requirements and architecture - https://github.com/Sanchana-2k/LTTS_C_MiniProject
