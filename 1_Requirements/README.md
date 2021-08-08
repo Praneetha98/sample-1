@@ -37,3 +37,15 @@ The user should register with raw data and the raw data will be encrypted. After
 | HR_01 | Admin | Implemented |
 | HR_02 | Seller | Implemented |
 | HR_03 | End user | Implemented |
+## Low Level Requirements:
+| ID | Description | HLR_ID | Status |
+| --- | --- | --- | --- |
+| LR_01 | Login | HR_01 | Implemented |
+| LR_02 | View all users and authorize | HR_01 | Implemented |
+| LR_03 | View all sellers and authorize | HR_01 | Implemented |
+| LR_04 | Set limit access | HR_01 | Implemented |
+| LR_05 | View all malicious users | HR_01 | Implemented |
+| LR_06 | Block malicious users | HR_01 | Implemented |
+| LR_07 | View unblock requests | HR_01 | Implemented |
+| LR_08 | View product rank | HR_01 | Implemented |
+| LR_09 | Logout | HR_01 | Implemented |
