@@ -20,7 +20,8 @@ The proposed system includes, which proficiently coordinates integrity and priva
 ## Who:
 This is a helping hand for data markets for checking the integrity of data.
 ## What:
-An integrity and privacy checker for identifying the information changes. 
+An integrity and privacy checker for checking the accuracy of the data’s collection while maintaining privacy. Data users can 
+check the validity of data contributor’s identity as well as the stuff of raw data by ensuring the integrity of collection of data, while privacy protection prevents people from finding out these confidential contents.
 ## When:
 ## Where:
 ## How:
