@@ -16,3 +16,9 @@ It shows the result analysis of number of files processed using proposed system.
 data in seconds are given in detail manner.
 # Defining the System
 The proposed system includes, which proficiently coordinates integrity and privacy safeguarding in data centers that are accessible through large servers.
+# 4 W's and 1'H
+## Who:
+## What:
+## When:
+## Where:
+## How:
