@@ -17,8 +17,8 @@ data in seconds are given in detail manner.
 # Defining the System
 The proposed system includes, which proficiently coordinates integrity and privacy safeguarding in data centers that are accessible through large servers.
 # 4 W's and 1'H
-## Who:
-## What:
+## Who: This is a helping hand for data markets for checking the integrity of data.
+## What: 
 ## When:
 ## Where:
 ## How:
